@@ -8,10 +8,10 @@ import twitter4j.conf.ConfigurationBuilder;
 
 public class Crawler {
 	
-	static final String CONSUMER_KEY = "oUo2aFdLlqtfjKN5lZ9li3kMX";
-	static final String CONSUMER_SECRET = "PTm6WfpGlKDgAt9i7a7j22LHCclfHeH0UUprEeUUDimB2hTAKD";
-	static final String ACCESS_TOKEN = "3246891997-pxbNm3d8HpzlVlGUtnoc8zVOWSel3ZbWtw8K8HL";
-	static final String ACCESS_TOKEN_SECRET = "LwPTH7s6DJm8a8WRUM4F7Lf3u98gJatOFAEFhZbxS7YHP";
+	static final String CONSUMER_KEY = "CONSUMER_KEY";
+	static final String CONSUMER_SECRET = "CONSUMER_SECRET";
+	static final String ACCESS_TOKEN = "ACCESS_TOKEN";
+	static final String ACCESS_TOKEN_SECRET = "ACCESS_TOKEN_SECRET";
 
 	public static void main(String[] args) {
 		ConfigurationBuilder cb = new ConfigurationBuilder();
